@@ -1,4 +1,4 @@
-TableInterpolation
+Table Interpolation
 ==================
 
 Data interpolation program for CSV file. 
